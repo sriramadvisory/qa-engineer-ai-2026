@@ -106,7 +106,7 @@ Glassdoor India, AmbitionBox, and LinkedIn Salary Insights give directional rang
 **3. Total package, not just base**
 When base is fixed, negotiate joining bonus, variable percentage, and review timeline. Most hiring managers have more flexibility on these than on base.
 
-> **The complete word-for-word salary negotiation scripts** — for all four scenarios (band is fixed, competing offer, CTC disclosure, no response after final round) — are in the [QA Engineer Survival Guide 2026](https://sriramadvisory.com). ₹499.
+> **The complete word-for-word salary negotiation scripts** — for all four scenarios (band is fixed, competing offer, CTC disclosure, no response after final round) — are in the [QA Engineer Survival Guide 2026](https://www.sriramadvisory.com/guides/qa-engineer-survival-guide-2026). ₹499.
 
 ---
 
