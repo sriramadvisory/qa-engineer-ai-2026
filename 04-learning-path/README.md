@@ -114,7 +114,7 @@ Most engineers study for 3 months and build nothing. A working project with bugs
 
 ### General AI Testing
 - [Ministry of Testing](https://www.ministryoftesting.com/) — best QA community globally
-- [ISTQB AI Testing syllabus](https://www.istqb.org/certifications/artificial-intelligence) — free PDF
+- [ISTQB AI Testing syllabus](https://istqb.org/istqb-releases-certified-tester-ai-testing-ct-ai-syllabus-version-2-0/) — free PDF
 - [TestDino blog](https://testdino.com/blog) — India QA market data
 
 ### SQL and Data for QA
