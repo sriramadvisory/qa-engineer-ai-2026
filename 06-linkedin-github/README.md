@@ -72,7 +72,7 @@ The shift is from task description to outcome statement.
 
 Every bullet must start with a strong verb and end with a number.
 
-> **Complete before/after experience rewrite templates** for Manual QA, Selenium, SDET, and QA Lead roles — with specific outcome statement formulas — are in the [QA Engineer Survival Guide 2026](https://sriramadvisory.com). ₹499.
+> **Complete before/after experience rewrite templates** for Manual QA, Selenium, SDET, and QA Lead roles — with specific outcome statement formulas — are in the [QA Engineer Survival Guide 2026](https://www.sriramadvisory.com/guides/qa-engineer-survival-guide-2026). ₹499.
 
 ---
 
@@ -93,7 +93,7 @@ Would you be open to a 15-minute conversation about [Company]'s quality engineer
 Best, [Name]
 ```
 
-> **LinkedIn post templates** for sharing your projects, learning milestones, and positioning yourself as an AI Quality engineer — including the exact post structures that generate recruiter inbound — are in the [QA Engineer Survival Guide 2026](https://sriramadvisory.com). ₹499.
+> **LinkedIn post templates** for sharing your projects, learning milestones, and positioning yourself as an AI Quality engineer — including the exact post structures that generate recruiter inbound — are in the [QA Engineer Survival Guide 2026](https://www.sriramadvisory.com/guides/qa-engineer-survival-guide-2026). ₹499.
 
 ---
 
