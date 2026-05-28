@@ -73,7 +73,7 @@ qa-engineer-ai-2026/
 30 years in IT. I have watched every technology wave hit Indian IT — Y2K, the web, cloud, and now AI. I built SA-AIRS™ and the Sriram Advisory career intelligence system specifically for Indian IT professionals navigating this transition.
 
 - 🌐 [sriramadvisory.com](https://sriramadvisory.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sriram-srinivasan-b2a4a511/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sriramadvisory/)
 - 📧 sriram@sriramadvisory.com
 
 ---
