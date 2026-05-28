@@ -50,7 +50,7 @@ You are not starting from zero. You have domain knowledge of how real software b
 | Week 3 | Set up GitHub Actions CI pipeline. Learn pytest fixtures. | Add fixtures for login state, test data, browser setup. Reduce test duplication. |
 | Week 4 | Explore Playwright trace viewer. Run broken tests to see the trace output. | Push complete suite to GitHub. Write README with Selenium vs Playwright comparison. Post on LinkedIn. |
 
-> **Phase 2 (Days 31–60)** — adding the AI evaluation layer with GitHub Copilot, DeepEval, RAGAS, and your AI Testing Framework design document — is in the [Selenium Engineer Upgrade Guide 2026](https://www.sriramadvisory.com/guides/qa-engineer-survival-guide-2026). ₹499.
+> **Phase 2 (Days 31–60)** — adding the AI evaluation layer with GitHub Copilot, DeepEval, RAGAS, and your AI Testing Framework design document — is in the [Selenium Engineer Upgrade Guide 2026](https://www.sriramadvisory.com/guides/selenium-engineer-upgrade-guide-2026). ₹499.
 
 ---
 
