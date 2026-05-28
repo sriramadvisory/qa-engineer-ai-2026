@@ -93,31 +93,20 @@ Most GCC QA coding rounds require Python. Minimal preparation needed:
 
 ---
 
-## Salary Negotiation Scripts
+## Salary Negotiation — The Framework
 
-### When they offer ₹28 LPA and you want ₹35 LPA
+Three principles that apply to every GCC salary negotiation:
 
-❌ Don't say: *"I was expecting more."* (sounds vague)
+**1. Never anchor on your current CTC**
+Your current salary reflects a different market, a different tool stack, and a different role scope. It is not the right anchor for a GCC AI Quality role.
 
-✅ Say: *"I appreciate the offer. Based on my research on GCC compensation for AI Quality roles in Bangalore — specifically the combination of LLM evaluation capability and the portfolio I've built — I was targeting ₹33–35 LPA. Is there flexibility in that range?"*
+**2. Research the band before the conversation**
+Glassdoor India, AmbitionBox, and LinkedIn Salary Insights give directional ranges. Know the band before you walk in.
 
----
+**3. Total package, not just base**
+When base is fixed, negotiate joining bonus, variable percentage, and review timeline. Most hiring managers have more flexibility on these than on base.
 
-### When they say the band is fixed
-
-✅ Say: *"I understand the band has constraints. Can we look at the total package? Specifically — is there flexibility on the joining bonus, the variable target percentage, or an earlier performance review at 6 months?"*
-
----
-
-### When they ask your current CTC
-
-✅ Say: *"I'd prefer to discuss the role's value and compensation band rather than anchor on my current package, which reflects a different market and a different tool stack. Can you share the band for this position?"*
-
----
-
-### When you have a competing offer
-
-✅ Say: *"I want to be transparent — I have another offer at [amount] from [company type, not name]. My strong preference is to join here because [genuine specific reason]. Is there any flexibility to get closer to that number?"*
+> **The complete word-for-word salary negotiation scripts** — for all four scenarios (band is fixed, competing offer, CTC disclosure, no response after final round) — are in the [QA Engineer Survival Guide 2026](https://sriramadvisory.com). ₹499.
 
 ---
 
