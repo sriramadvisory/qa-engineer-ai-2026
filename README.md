@@ -84,9 +84,9 @@ If you want the complete structured roadmap — tools, 90-day plans, GCC targeti
 
 | Guide | For | Price |
 |---|---|---|
-| [QA Engineer Survival Guide 2026](https://sriramadvisory.com) | Manual QA Engineers | ₹499 |
-| [Selenium Engineer Upgrade Guide 2026](https://sriramadvisory.com) | Selenium Automation Engineers | ₹499 |
-| [AI Career Risk Guide India 2026](https://sriramadvisory.com) | All IT Professionals | ₹499 |
+| [QA Engineer Survival Guide 2026](https://www.sriramadvisory.com/guides/qa-engineer-survival-guide-2026) | Manual QA Engineers | ₹499 |
+| [Selenium Engineer Upgrade Guide 2026](https://www.sriramadvisory.com/guides/selenium-engineer-upgrade-guide-2026) | Selenium Automation Engineers | ₹499 |
+| [AI Career Risk Guide India 2026](https://www.sriramadvisory.com/products/ai-risk-rankings-india-2026) | All IT Professionals | ₹499 |
 
 ---
 
