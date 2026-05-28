@@ -73,7 +73,7 @@ qa-engineer-ai-2026/
 30 years in IT. I have watched every technology wave hit Indian IT — Y2K, the web, cloud, and now AI. I built SA-AIRS™ and the Sriram Advisory career intelligence system specifically for Indian IT professionals navigating this transition.
 
 - 🌐 [sriramadvisory.com](https://sriramadvisory.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sriram-srinivasan-b2a4a511/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sriramadvisory/)
 - 📧 sriram@sriramadvisory.com
 
 ---
@@ -84,9 +84,9 @@ If you want the complete structured roadmap — tools, 90-day plans, GCC targeti
 
 | Guide | For | Price |
 |---|---|---|
-| [QA Engineer Survival Guide 2026](https://sriramadvisory.com) | Manual QA Engineers | ₹499 |
-| [Selenium Engineer Upgrade Guide 2026](https://sriramadvisory.com) | Selenium Automation Engineers | ₹499 |
-| [AI Career Risk Guide India 2026](https://sriramadvisory.com) | All IT Professionals | ₹499 |
+| [QA Engineer Survival Guide 2026](https://www.sriramadvisory.com/guides/qa-engineer-survival-guide-2026) | Manual QA Engineers | ₹499 |
+| [Selenium Engineer Upgrade Guide 2026](https://www.sriramadvisory.com/guides/selenium-engineer-upgrade-guide-2026) | Selenium Automation Engineers | ₹499 |
+| [AI Career Risk Guide India 2026](https://www.sriramadvisory.com/products/ai-risk-rankings-india-2026) | All IT Professionals | ₹499 |
 
 ---
 
