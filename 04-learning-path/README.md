@@ -106,7 +106,7 @@ Most engineers study for 3 months and build nothing. A working project with bugs
 
 ### Applitools
 - [Applitools free tutorials](https://applitools.com/tutorials/) — visual AI testing
-- [Eyes SDK for Playwright](https://applitools.com/tutorials/quickstart/web/playwright/python/)
+- [Eyes SDK for Playwright](https://applitools.com/docs/eyes/sdks/playwright-python/quickstart)
 
 ### LangSmith
 - [LangSmith docs](https://docs.smith.langchain.com/) — LLM tracing and evaluation
