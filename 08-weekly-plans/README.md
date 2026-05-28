@@ -50,7 +50,7 @@ You are not starting from zero. You have domain knowledge of how real software b
 | Week 3 | Set up GitHub Actions CI pipeline. Learn pytest fixtures. | Add fixtures for login state, test data, browser setup. Reduce test duplication. |
 | Week 4 | Explore Playwright trace viewer. Run broken tests to see the trace output. | Push complete suite to GitHub. Write README with Selenium vs Playwright comparison. Post on LinkedIn. |
 
-> **Phase 2 (Days 31–60)** — adding the AI evaluation layer with GitHub Copilot, DeepEval, RAGAS, and your AI Testing Framework design document — is in the [Selenium Engineer Upgrade Guide 2026](https://sriramadvisory.com). ₹499.
+> **Phase 2 (Days 31–60)** — adding the AI evaluation layer with GitHub Copilot, DeepEval, RAGAS, and your AI Testing Framework design document — is in the [Selenium Engineer Upgrade Guide 2026](https://www.sriramadvisory.com/guides/qa-engineer-survival-guide-2026). ₹499.
 
 ---
 
@@ -63,7 +63,7 @@ You are not starting from zero. You have domain knowledge of how real software b
 | Week 1 | DeepEval deep dive — full metric library | Comprehensive evaluation suite for your domain (10+ test cases) |
 | Week 2 | RAGAS for RAG pipeline evaluation | RAG evaluation with threshold analysis documented |
 
-> **Weeks 3–4 and the complete AI Quality Architect positioning plan** — including LangSmith integration, system design document template, and GCC application strategy — are in the [QA Engineer Survival Guide 2026](https://sriramadvisory.com). ₹499.
+> **Weeks 3–4 and the complete AI Quality Architect positioning plan** — including LangSmith integration, system design document template, and GCC application strategy — are in the [QA Engineer Survival Guide 2026](https://www.sriramadvisory.com/guides/qa-engineer-survival-guide-2026). ₹499.
 
 ---
 
@@ -76,7 +76,7 @@ You are not starting from zero. You have domain knowledge of how real software b
 | Week 1 | Study AI Quality Architect job descriptions at 5 GCCs. Map to your existing skills. |
 | Week 2 | Learn DeepEval and RAGAS conceptually — understand what they measure and why it matters. |
 
-> **The complete 60-day QA Lead repositioning plan** — including the AI Quality governance framework template, LinkedIn rewrite, enterprise GCC targeting, and the AI Testing Framework design document structure — is in the [QA Engineer Survival Guide 2026](https://sriramadvisory.com). ₹499.
+> **The complete 60-day QA Lead repositioning plan** — including the AI Quality governance framework template, LinkedIn rewrite, enterprise GCC targeting, and the AI Testing Framework design document structure — is in the [QA Engineer Survival Guide 2026](https://www.sriramadvisory.com/guides/qa-engineer-survival-guide-2026). ₹499.
 
 ---
 
